@@ -1,2 +1,2 @@
 # Samuel_Portfolio
-Compilation of Python programming language codes
+Compilation of all Data Analyical project and language codes
